@@ -1,3 +1,3 @@
 ## basic installation
 
-nextJs tailwindCss Storybook
+nextJs tailwindCss storybook
